@@ -10,5 +10,17 @@
     "created_at": "2026-02-19T21:10:09.6241346Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_2": {
+    "name": "sdasd",
+    "group": "Hex",
+    "child_group": "0",
+    "description": "Boyut: 0 B | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/sdasd.exe",
+    "version": "1.0",
+    "created_at": "2026-02-19T23:46:49.5455320Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
