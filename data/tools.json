@@ -10,5 +10,17 @@
     "created_at": "2026-02-22T02:59:45.8001897Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_3": {
+    "name": "DelphiFilesSetup",
+    "group": "Analysis",
+    "child_group": "0",
+    "description": "Boyut: 1,09 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/DelphiFilesSetup.exe",
+    "version": "1.0",
+    "created_at": "2026-02-22T20:01:06.4209217Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
