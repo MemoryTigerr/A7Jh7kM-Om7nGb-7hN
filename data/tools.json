@@ -1,14 +1,1 @@
-{
-  "tool_6": {
-    "name": "as",
-    "group": "Analysis",
-    "child_group": "0",
-    "description": "Boyut: 4.03 MB | Release: Repo",
-    "image_url": "",
-    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/as.zip",
-    "version": "1.0",
-    "created_at": "2026-02-24T23:46:23.9688490Z",
-    "updated_at": null,
-    "is_active": true
-  }
-}
+{}
