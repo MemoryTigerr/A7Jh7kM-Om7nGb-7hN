@@ -10,17 +10,5 @@
     "created_at": "2026-02-24T23:46:23.9688490Z",
     "updated_at": null,
     "is_active": true
-  },
-  "tool_7": {
-    "name": "y",
-    "group": "Patcher",
-    "child_group": "0",
-    "description": "Boyut: 3.52 MB | Release: Repo",
-    "image_url": "",
-    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/y.zip",
-    "version": "1.0",
-    "created_at": "2026-02-25T19:04:13.9237598Z",
-    "updated_at": null,
-    "is_active": true
   }
 }
