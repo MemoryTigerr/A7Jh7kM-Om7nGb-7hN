@@ -1,14 +1,1 @@
-{
-  "tool_1": {
-    "name": "y",
-    "group": "Decompiler",
-    "child_group": "0",
-    "description": "Boyut: 3.52 MB | Release: Repo",
-    "image_url": "",
-    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/y.zip",
-    "version": "1.0",
-    "created_at": "2026-02-26T23:22:09.5574616Z",
-    "updated_at": null,
-    "is_active": true
-  }
-}
+{}
