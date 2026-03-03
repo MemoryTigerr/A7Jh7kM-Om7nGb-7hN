@@ -10,5 +10,17 @@
     "created_at": "2026-03-03T22:09:24.0826876Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_2": {
+    "name": "tht (2)",
+    "group": "Hex",
+    "child_group": "0",
+    "description": "Boyut: 22 B | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/tht%20(2).zip",
+    "version": "1.0",
+    "created_at": "2026-03-03T23:46:13.7731640Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
