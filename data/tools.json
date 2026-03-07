@@ -46,5 +46,17 @@
     "created_at": "2026-03-07T20:26:49.7493735Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_6": {
+    "name": "Jar explorer",
+    "group": "Decompiler",
+    "child_group": "0",
+    "description": "Boyut: 905,31 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Jar%20explorer.zip",
+    "version": "1.0",
+    "created_at": "2026-03-07T20:29:47.1464024Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
