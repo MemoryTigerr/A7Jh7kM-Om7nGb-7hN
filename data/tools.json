@@ -34,5 +34,17 @@
     "created_at": "2026-03-07T20:15:22.3268688Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_5": {
+    "name": "Android Cracker Kit v0.2",
+    "group": "Android",
+    "child_group": "0",
+    "description": "Boyut: 22,39 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Android%20Cracker%20Kit%20v0.2.zip",
+    "version": "1.0",
+    "created_at": "2026-03-07T20:26:49.7493735Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
