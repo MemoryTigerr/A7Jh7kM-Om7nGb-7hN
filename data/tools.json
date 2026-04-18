@@ -70,5 +70,17 @@
     "created_at": "2026-04-18T19:53:04.2565071Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_13": {
+    "name": "DIE_1.01",
+    "group": "Detector",
+    "child_group": "0",
+    "description": "Boyut: 9,81 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/DIE_1.01.zip",
+    "version": "1.0",
+    "created_at": "2026-04-18T19:57:37.1926824Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
