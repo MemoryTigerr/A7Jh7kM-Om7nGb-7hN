@@ -58,17 +58,5 @@
     "created_at": "2026-04-18T13:15:53.4487833Z",
     "updated_at": null,
     "is_active": true
-  },
-  "tool_10": {
-    "name": ".NET Reflector 9.0",
-    "group": "Analysis",
-    "child_group": "0",
-    "description": "Boyut: 2,99 MB | Release: Repo",
-    "image_url": "",
-    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/.NET%20Reflector%209.0.zip",
-    "version": "1.0",
-    "created_at": "2026-04-18T19:37:59.3949960Z",
-    "updated_at": null,
-    "is_active": true
   }
 }
