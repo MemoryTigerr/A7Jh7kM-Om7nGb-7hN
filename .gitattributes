@@ -2,6 +2,5 @@
 <<<<<<< HEAD
 =======
 *.zip filter=lfs diff=lfs merge=lfs -text
-*zip filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 8a87ff16a5f06747fba80dc998466b45660374ce
 *.zip7 filter=lfs diff=lfs merge=lfs -text
