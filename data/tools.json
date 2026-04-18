@@ -58,5 +58,17 @@
     "created_at": "2026-03-15T17:21:22.4439589Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_9": {
+    "name": "dnSpy",
+    "group": "Analysis",
+    "child_group": "0",
+    "description": "Boyut: 22,04 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/dnSpy.zip",
+    "version": "1.0",
+    "created_at": "2026-04-18T13:15:53.4487833Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
