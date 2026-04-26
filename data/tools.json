@@ -154,5 +154,17 @@
     "created_at": "2026-04-26T19:34:29.3848559Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_20": {
+    "name": "PEiD-0.95-20081103",
+    "group": "Detector",
+    "child_group": "0",
+    "description": "Boyut: 391,46 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/PEiD-0.95-20081103.zip",
+    "version": "1.0",
+    "created_at": "2026-04-26T19:37:25.7642224Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
