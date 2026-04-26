@@ -238,5 +238,17 @@
     "created_at": "2026-04-26T19:58:33.2209551Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_28": {
+    "name": "BoxedAppPacker",
+    "group": "Packers",
+    "child_group": "0",
+    "description": "Boyut: 16,25 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/BoxedAppPacker.zip",
+    "version": "1.0",
+    "created_at": "2026-04-26T19:59:20.3155982Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
