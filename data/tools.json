@@ -94,5 +94,17 @@
     "created_at": "2026-04-26T19:17:55.4974599Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_15": {
+    "name": "x64_dbg",
+    "group": "Analysis",
+    "child_group": "0",
+    "description": "Boyut: 33,16 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/x64_dbg.zip",
+    "version": "1.0",
+    "created_at": "2026-04-26T19:20:40.8466374Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
