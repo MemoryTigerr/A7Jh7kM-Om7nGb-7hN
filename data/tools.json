@@ -215,18 +215,6 @@
     "updated_at": null,
     "is_active": true
   },
-  "tool_26": {
-    "name": "winhex19.3",
-    "group": "Hex",
-    "child_group": "0",
-    "description": "Boyut: 4,15 MB | Release: Repo",
-    "image_url": "",
-    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/winhex19.3.zip",
-    "version": "1.0",
-    "created_at": "2026-04-26T19:54:42.6374350Z",
-    "updated_at": null,
-    "is_active": true
-  },
   "tool_27": {
     "name": "Code.Virtualizer.v2.1.1.0",
     "group": "Packers",
