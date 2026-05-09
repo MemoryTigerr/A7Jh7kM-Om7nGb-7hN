@@ -286,5 +286,17 @@
     "created_at": "2026-05-02T20:53:55.3812864Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_36": {
+    "name": "CryptoObfuscator Enterprise 2015 Build 170126",
+    "group": "Patcher",
+    "child_group": "0",
+    "description": "Boyut: 7 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/CryptoObfuscator%20Enterprise%202015%20Build%20170126.zip",
+    "version": "1.0",
+    "created_at": "2026-05-09T18:32:00.4324727Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
