@@ -286,5 +286,17 @@
     "created_at": "2026-05-09T18:39:33.8244888Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_37": {
+    "name": "PECompact",
+    "group": "Packers",
+    "child_group": "0",
+    "description": "Boyut: 741,26 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/PECompact.zip",
+    "version": "1.0",
+    "created_at": "2026-05-09T19:07:52.5084647Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
