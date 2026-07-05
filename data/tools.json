@@ -682,5 +682,17 @@
     "created_at": "2026-07-05T13:13:56.3914163Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_71": {
+    "name": "UPX",
+    "group": "Unpacker",
+    "child_group": "0",
+    "description": "Boyut: 127,23 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/UPX.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:14:06.1291347Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
