@@ -430,5 +430,17 @@
     "created_at": "2026-07-05T12:23:28.3597277Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_49": {
+    "name": "ConfuserEx v0.2.2-Modded",
+    "group": "Protector",
+    "child_group": "0",
+    "description": "Boyut: 2,15 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/ConfuserEx%20v0.2.2-Modded.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:26:04.1483286Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
