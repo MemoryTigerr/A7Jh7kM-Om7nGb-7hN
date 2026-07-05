@@ -406,5 +406,17 @@
     "created_at": "2026-07-05T12:18:31.9006257Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_47": {
+    "name": "Resource Tuner",
+    "group": "Petools",
+    "child_group": "0",
+    "description": "Boyut: 4,69 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Resource%20Tuner.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:21:35.6628895Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
