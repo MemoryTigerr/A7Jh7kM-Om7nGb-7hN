@@ -298,5 +298,17 @@
     "created_at": "2026-05-09T19:07:52.5084647Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_38": {
+    "name": "AT4RE Patcher v0.7.5",
+    "group": "Patcher",
+    "child_group": "0",
+    "description": "Boyut: 3,43 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/AT4RE%20Patcher%20v0.7.5.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:00:14.8774619Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
