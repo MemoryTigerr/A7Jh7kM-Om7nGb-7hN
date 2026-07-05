@@ -706,5 +706,17 @@
     "created_at": "2026-07-05T13:14:20.3603180Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_73": {
+    "name": "RGHost_Uploader",
+    "group": "Up",
+    "child_group": "0",
+    "description": "Boyut: 2,84 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/RGHost_Uploader.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:17:15.1993030Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
