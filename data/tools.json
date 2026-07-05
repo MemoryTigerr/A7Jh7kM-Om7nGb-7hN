@@ -826,5 +826,17 @@
     "created_at": "2026-07-05T13:24:02.5676374Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_83": {
+    "name": "nirtools",
+    "group": "Extra",
+    "child_group": "0",
+    "description": "Boyut: 104,06 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/nirtools.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:24:11.3088910Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
