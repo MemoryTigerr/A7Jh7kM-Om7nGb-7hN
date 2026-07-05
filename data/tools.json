@@ -490,5 +490,17 @@
     "created_at": "2026-07-05T12:37:13.1521935Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_54": {
+    "name": "Safengine Protector V.2.3.9.0",
+    "group": "Protector",
+    "child_group": "0",
+    "description": "Boyut: 10,88 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Safengine%20Protector%20V.2.3.9.0.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:39:15.9332532Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
