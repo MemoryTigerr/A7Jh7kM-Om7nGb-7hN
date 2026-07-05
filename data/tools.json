@@ -550,5 +550,17 @@
     "created_at": "2026-07-05T12:52:31.2452665Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_59": {
+    "name": "WinLicense.2.4.5.x32.x64.uploaded.by.Avi_RE",
+    "group": "Protector",
+    "child_group": "0",
+    "description": "Boyut: 43,42 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/WinLicense.2.4.5.x32.x64.uploaded.by.Avi_RE.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:55:03.6708522Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
