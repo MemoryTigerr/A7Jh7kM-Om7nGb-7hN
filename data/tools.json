@@ -838,5 +838,17 @@
     "created_at": "2026-07-05T13:24:11.3088910Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_84": {
+    "name": "SnD Reverser Tool 1.4",
+    "group": "Extra",
+    "child_group": "0",
+    "description": "Boyut: 127,88 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/SnD%20Reverser%20Tool%201.4.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:24:22.0812257Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
