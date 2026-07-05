@@ -754,5 +754,17 @@
     "created_at": "2026-07-05T13:21:59.7193433Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_77": {
+    "name": "dotRenamer",
+    "group": "Extra",
+    "child_group": "0",
+    "description": "Boyut: 542,91 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/dotRenamer.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:22:14.2080458Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
