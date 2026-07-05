@@ -730,5 +730,17 @@
     "created_at": "2026-07-05T13:17:30.0394875Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_75": {
+    "name": "Circuit's Cracker Tool",
+    "group": "Extra",
+    "child_group": "0",
+    "description": "Boyut: 321,53 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Circuit's%20Cracker%20Tool.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:21:43.2517735Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
