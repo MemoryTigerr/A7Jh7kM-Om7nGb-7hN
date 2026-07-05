@@ -718,5 +718,17 @@
     "created_at": "2026-07-05T13:17:15.1993030Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_74": {
+    "name": "Zippy_Uploader",
+    "group": "Up",
+    "child_group": "0",
+    "description": "Boyut: 1,34 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Zippy_Uploader.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:17:30.0394875Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
