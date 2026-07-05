@@ -874,5 +874,17 @@
     "created_at": "2026-07-05T13:24:47.1428353Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_87": {
+    "name": "Universal Extractor",
+    "group": "Extra",
+    "child_group": "0",
+    "description": "Boyut: 10,2 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/Universal%20Extractor.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T13:25:01.3883807Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
