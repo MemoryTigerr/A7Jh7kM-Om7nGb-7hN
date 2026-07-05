@@ -562,5 +562,17 @@
     "created_at": "2026-07-05T12:55:03.6708522Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_60": {
+    "name": "yP1.03",
+    "group": "Protector",
+    "child_group": "0",
+    "description": "Boyut: 102,15 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/yP1.03.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:57:13.7379124Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
