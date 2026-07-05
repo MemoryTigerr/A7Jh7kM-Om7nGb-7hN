@@ -346,5 +346,17 @@
     "created_at": "2026-07-05T12:07:21.7877503Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_42": {
+    "name": "KeyGenning Tool 2.0",
+    "group": "Patcher",
+    "child_group": "0",
+    "description": "Boyut: 162,47 KB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/KeyGenning%20Tool%202.0.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:09:09.6244469Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
