@@ -514,5 +514,17 @@
     "created_at": "2026-07-05T12:42:09.5524379Z",
     "updated_at": null,
     "is_active": true
+  },
+  "tool_56": {
+    "name": "The Enigma Protector",
+    "group": "Protector",
+    "child_group": "0",
+    "description": "Boyut: 13,58 MB | Release: Repo",
+    "image_url": "",
+    "download_url": "https://raw.githubusercontent.com/MemoryTigerr/A7Jh7kM-Om7nGb-7hN/main/The%20Enigma%20Protector.zip",
+    "version": "1.0",
+    "created_at": "2026-07-05T12:44:31.3522986Z",
+    "updated_at": null,
+    "is_active": true
   }
 }
